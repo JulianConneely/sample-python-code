@@ -1,2 +1,2 @@
 # sample-python-code
-sample python scripts
+This file contains exercise 1 and 2
