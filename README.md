@@ -1,5 +1,7 @@
 # Julian Conneely, 2018-02-14
 # sample-python-code
-This file contains exercise 1 and 2
+fib.py contains exercise 1 
 
-Collatz.py contains Exercise 3
+fibsurname.py contains exercise 2
+
+collatz.py contains Exercise 3
